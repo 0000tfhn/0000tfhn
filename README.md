@@ -1,16 +1,14 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 🤍
 
-<!--
-**0000tfhn/0000tfhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é thaina neves
 
-Here are some ideas to get you started:
+- Estou estudando o Alura
+- estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compathilhamento de projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### você entrar em contato comigo 📧
+
+  00001106973136sp@al.educacao.sp.br.com
+
+  ![](https://github.com/0000tfhn/0000tfhn/assets/171162267/944ad02f-947f-4f6d-8344-6375b6a8c399)
+
